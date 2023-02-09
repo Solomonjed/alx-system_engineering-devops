@@ -1,2 +1,2 @@
 I#!/bin/bash
-chmod 129 hello .
+chmod 700 hello .
