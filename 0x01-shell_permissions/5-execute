@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 40 hello
+-rwxr--r-- 
